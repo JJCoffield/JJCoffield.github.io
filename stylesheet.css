@@ -1,0 +1,20 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+
+a {
+    display: block;
+    width: 60px;
+    background-color: #dddddd;
+}
+body {background-image: url(http://hdwallpapers4you.com/wallpaper_3840x2160/dark_city_future_grim_destroyed_science_fiction_sci_desktop_1200x829_hd-wallpaper-501068.jpg);
+}
+
+head {
+    text-align: center;
+    color: inherit;
+}
